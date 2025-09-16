@@ -11,11 +11,11 @@ It helps eliminate manual data entry, improves accuracy, and saves time.
 - Reproducible environment with `requirements.txt`.  
 
 ## **📂 Project Structure**
-project-folder/
-│── salaryslip.py # Extracts data from salary slip PDF
-│── googlesetupsheet.py # Uploads extracted data to Google Sheets
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+project-folder/ <br>
+│── salaryslip.py # Extracts data from salary slip PDF <br>
+│── googlesetupsheet.py # Uploads extracted data to Google Sheets <br>
+│── requirements.txt # Python dependencies <br>
+│── README.md # Project documentation <br>
 
 ## **🚀 Getting Started**
 
